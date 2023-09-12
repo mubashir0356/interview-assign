@@ -1,0 +1,25 @@
+.tab-item {
+  width: 33%;
+  padding: 10px;
+  list-style-type: none;
+  text-align: center;
+  border-bottom: 1px solid gray;
+  border-right: 2px solid gray;
+}
+
+.active-tab {
+  color: #2563eb;
+  border-top: 2px solid lightgreen;
+}
+
+.tab-btn {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 700;
+  color: black;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  text-align: center;
+}
